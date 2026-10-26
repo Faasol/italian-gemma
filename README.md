@@ -1,9 +1,4 @@
----
-title: Can an internal feature make Gemma more Italian?
-date: 2026-10-20
-category: Experiment
-summary: A small activation-steering experiment with Gemma 2 and Gemma 3, from finding Italian-culture features to watching stronger interventions break the output.
----
+# Can an internal feature make Gemma more Italian? 
 
 Can a language model's answers become more focused on Italian culture without asking it to do so in the prompt?
 
